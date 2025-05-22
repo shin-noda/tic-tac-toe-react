@@ -1,7 +1,7 @@
 {
   "name": "tic-tac-toe-react",
   "version": "0.1.0",
-  "homepage": "https://shin-noda.github.io/tic-tac-toc-react",
+  "homepage": "https://shin-noda.github.io/tic-tac-toe-react",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
